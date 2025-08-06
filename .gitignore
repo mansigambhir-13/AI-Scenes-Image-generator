@@ -1,0 +1,86 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# AI Models (large files)
+models/sam_checkpoints/*.pth
+*.pth
+*.pt
+*.bin
+
+# Generated Images
+data/captured_images/
+data/generated_scenes/
+data/composed_scenes/
+data/enhanced_images/
+data/final_results/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+!examples/*.jpg
+!examples/*.png
+
+# Logs
+logs/
+*.log
+
+# API Keys
+.env
+config/api_keys.json
+*.key
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Documentation builds
+docs/_build/
