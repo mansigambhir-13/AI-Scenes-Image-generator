@@ -367,13 +367,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PyTorch Team** - For the deep learning framework
 - **Contributors** - For improvements and bug fixes
 
-## 📞 Support
-
-### **Get Help**
-- 📧 **Email**: support@ai-scenes-generator.com
-- 💬 **Discord**: [Join our community](https://discord.gg/ai-scenes)
-- 📖 **Documentation**: [Full docs](docs/user_guide.md)
-- 🐛 **Issues**: [Report bugs](https://github.com/mansigambhir-13/AI-Scenes-Image-generator/issues)
 
 ### **Show Your Support**
 If this project helped you, please consider:
